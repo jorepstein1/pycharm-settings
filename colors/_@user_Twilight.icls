@@ -3,7 +3,7 @@
     <property name="created">2017-07-24T10:29:27</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-09-04T13:58:47</property>
+    <property name="modified">2017-12-07T11:44:18</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -1240,7 +1240,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="9482" />
+        <option name="FOREGROUND" value="9494" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
